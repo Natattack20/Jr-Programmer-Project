@@ -22,4 +22,6 @@ public class OptimManager : MonoBehaviour
             newUnit.SetAreaSize(Size);
         }
     }
+
+    
 }
